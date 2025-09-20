@@ -1,4 +1,4 @@
-# Backend Developer Assignment — Final Project (Using Provided Templates)
+# Backend Developer Assignment —
 
 This project uses the exact HTML templates you provided (`temp1.html` and `interestcompounded.html`) and adds one additional solved problem per template, keeping the CSS and layout structure intact.
 
@@ -13,10 +13,9 @@ Files:
 - index.html           — Navigation page to open each solved problem
 
 How to run:
-1. Extract the ZIP.
-2. Open `index.html` in a browser (Chrome/Firefox/Edge).
-3. Click any problem link to open the rendered template pages.
-4. Replace `arrow.png` and `interesticon.png` with your actual images (same filenames) if/when you upload them.
+1. Open `index.html` in a browser (Chrome/Firefox/Edge).
+2. Click any problem link to open the rendered template pages.
+3. Replace `arrow.png` and `interesticon.png` with your actual images (same filenames) if/when you upload them.
 
 Notes:
 - I preserved the templates' structure and CSS usage; I only replaced numbers/variables/solution blocks and added new problem blocks.
